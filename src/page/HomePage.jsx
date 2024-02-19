@@ -6,7 +6,7 @@ import AppleRiosotto from '../assets/AppleRisotto.jpg'
 import pizza from '../assets/pizza.jpg'
 import Reviews from '../component/customerReview/reviews'
 import { TfiMoreAlt } from "react-icons/tfi";
-import Card from "../component/card";
+import Card from "../component/Card";
 import { Link } from 'react-router-dom'
 import Stats from '../component/Stats'
 export default function HomePage() {
