@@ -1,4 +1,4 @@
-import Card from "../component/card";
+import Card from "../component/Card";
 import useGetData from "../hook/getData";
 import { useEffect, useState } from "react";
 
